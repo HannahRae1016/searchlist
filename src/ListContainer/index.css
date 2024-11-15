@@ -1,0 +1,7 @@
+.listContainer .toggleBar {
+  text-align: right;
+  margin: 10px 0;
+}
+.listContainer .toggleBar span {
+  margin-left: 10px;
+}

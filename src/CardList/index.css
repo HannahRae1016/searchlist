@@ -1,0 +1,30 @@
+.CardListContainer .SingleContainer {
+  text-align: center;
+  height: 170px;
+}
+.CardListContainer .SingleContainer .iconContainer {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  line-height: 50px;
+  background-color: #52c41a;
+  font-size: 30px;
+}
+.CardListContainer .SingleContainer .fileName {
+  margin: 10px 0 0;
+  font-size: 15px;
+}
+.CardListContainer .SingleContainer .markColor {
+  color: #69b1ff;
+}
+.CardListContainer .SingleContainer .modified {
+  font-size: 12px;
+}
+.CardListContainer .SingleContainer .modifiedDate {
+  margin-top: 25px;
+  margin-bottom: 0;
+}
+.CardListContainer .SingleContainer .location {
+  font-size: 12px;
+}
